@@ -7,12 +7,13 @@ Simple CRUD using classes and interfaces
 ## :wrench: Technologies
 
 - Delphi 11.1
+- Firebird/FireDAC
 
 ## :star: Database
 
-Configure database path on FDConnection at UnitDataModule
+Configure database path on FDConnection at UnitDataModule.
 
-Table OFFICES containing fields ID, NAME, COUNTRY, GMT and STARTDATE. Primary on ID field.
+Database OFFICES.FDB contain a table OFFICES with fields ID, NAME, COUNTRY, GMT and STARTDATE. Primary key on ID field.
 
 ## :smiley_cat: Developer
 
