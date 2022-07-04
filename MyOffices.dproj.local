@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/26 22:02:56.000.376,=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/26 22:03:22.000.309,=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 14:42:18.000.561,=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 14:43:35.000.684,C:\CVSoft\Marcio\Example\UnitMainForm.pas=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 14:43:35.000.684,C:\CVSoft\Marcio\Example\UnitMainForm.dfm=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/04 14:43:47.000.406,=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 14:44:11.000.798,C:\CVSoft\Marcio\Example\UnitDataModulo.pas=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 14:44:11.000.798,C:\CVSoft\Marcio\Example\UnitDataModulo.dfm=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/07/04 14:48:38.000.302,C:\CVSoft\Marcio\Example\ProjectExample.dproj=C:\Users\msant\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/07/04 14:48:45.000.267,C:\CVSoft\Marcio\Example\UnitDataModule.pas=C:\CVSoft\Marcio\Example\UnitDataModulo.pas</Transaction>
+    <Transaction>2022/07/04 14:48:45.000.267,C:\CVSoft\Marcio\Example\UnitDataModule.dfm=C:\CVSoft\Marcio\Example\UnitDataModulo.dfm</Transaction>
+    <Transaction>2022/07/04 16:04:17.000.651,C:\CVSoft\Marcio\Example\UnitDataModule.pas=</Transaction>
+    <Transaction>2022/07/04 16:20:59.000.034,=C:\CVSoft\Marcio\Example\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 16:29:40.000.852,C:\CVSoft\Marcio\Example\Unit1.pas=C:\CVSoft\Marcio\Example\UnitClasses.pas</Transaction>
+    <Transaction>2022/07/04 16:39:46.000.693,=C:\CVSoft\Marcio\Example\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 16:41:04.000.673,C:\CVSoft\Marcio\Example\Unit1.pas=C:\CVSoft\Marcio\Example\UnitInterfaces.pas</Transaction>
+    <Transaction>2022/07/04 16:43:35.000.492,=C:\CVSoft\Marcio\Example\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 16:43:45.000.908,C:\CVSoft\Marcio\Example\UnitClasses.pas=C:\CVSoft\Marcio\Example\UnitTableClasses.pas</Transaction>
+    <Transaction>2022/07/04 16:43:52.000.346,C:\CVSoft\Marcio\Example\Unit1.pas=C:\CVSoft\Marcio\Example\UnitClasses.pas</Transaction>
+    <Transaction>2022/07/04 16:55:51.000.961,=C:\CVSoft\Marcio\Example\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 16:56:37.000.282,C:\CVSoft\Marcio\Example\Unit1.pas=C:\CVSoft\Marcio\Example\UnitDataModule.pas</Transaction>
+    <Transaction>2022/07/04 16:56:37.000.282,C:\CVSoft\Marcio\Example\Unit1.dfm=C:\CVSoft\Marcio\Example\UnitDataModule.dfm</Transaction>
+    <Transaction>2022/07/04 17:32:47.000.845,C:\CVSoft\Marcio\Example\UnitClasses.pas=C:\CVSoft\Marcio\Example\UnitClassOffice.pas</Transaction>
+    <Transaction>2022/07/04 17:42:39.000.213,=C:\CVSoft\Marcio\Example\Unit2.pas</Transaction>
+    <Transaction>2022/07/04 17:45:05.000.753,C:\CVSoft\Marcio\Example\Unit2.pas=C:\CVSoft\Marcio\Example\UnitFormOffice.pas</Transaction>
+    <Transaction>2022/07/04 17:45:05.000.753,C:\CVSoft\Marcio\Example\Unit2.dfm=C:\CVSoft\Marcio\Example\UnitFormOffice.dfm</Transaction>
+    <Transaction>2022/07/04 17:45:18.000.756,C:\CVSoft\Marcio\Example\UnitMainForm.dfm=C:\CVSoft\Marcio\Example\UnitFormMain.dfm</Transaction>
+    <Transaction>2022/07/04 17:45:18.000.756,C:\CVSoft\Marcio\Example\UnitMainForm.pas=C:\CVSoft\Marcio\Example\UnitFormMain.pas</Transaction>
+    <Transaction>2022/07/04 19:40:55.000.988,C:\CVSoft\Marcio\Example\ProjectExample.dproj=C:\CVSoft\Marcio\Example\MyOffices.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
