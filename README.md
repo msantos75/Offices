@@ -19,6 +19,6 @@ Database OFFICES.FDB contain a table OFFICES with fields ID, NAME, COUNTRY, GMT 
 
 Marcio Schumann dos Santos
 
-## :link: Conexions
+## :link: Find me
 
 [LinkedIn](https://www.linkedin.com/in/marcio-schumann-dos-santos-8b4a057a/)
